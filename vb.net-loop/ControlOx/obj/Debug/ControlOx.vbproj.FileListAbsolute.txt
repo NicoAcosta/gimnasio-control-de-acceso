@@ -1,0 +1,10 @@
+C:\OD\OneDrive\Proyectos\Ox\VB .NET\ControlOx\ControlOx\bin\Debug\ControlOx.exe.config
+C:\OD\OneDrive\Proyectos\Ox\VB .NET\ControlOx\ControlOx\bin\Debug\ControlOx.exe
+C:\OD\OneDrive\Proyectos\Ox\VB .NET\ControlOx\ControlOx\bin\Debug\ControlOx.pdb
+C:\OD\OneDrive\Proyectos\Ox\VB .NET\ControlOx\ControlOx\bin\Debug\ControlOx.xml
+C:\OD\OneDrive\Proyectos\Ox\VB .NET\ControlOx\ControlOx\obj\Debug\ControlOx.Resources.resources
+C:\OD\OneDrive\Proyectos\Ox\VB .NET\ControlOx\ControlOx\obj\Debug\ControlOx.vbproj.GenerateResource.cache
+C:\OD\OneDrive\Proyectos\Ox\VB .NET\ControlOx\ControlOx\obj\Debug\ControlOx.vbproj.CoreCompileInputs.cache
+C:\OD\OneDrive\Proyectos\Ox\VB .NET\ControlOx\ControlOx\obj\Debug\ControlOx.exe
+C:\OD\OneDrive\Proyectos\Ox\VB .NET\ControlOx\ControlOx\obj\Debug\ControlOx.xml
+C:\OD\OneDrive\Proyectos\Ox\VB .NET\ControlOx\ControlOx\obj\Debug\ControlOx.pdb

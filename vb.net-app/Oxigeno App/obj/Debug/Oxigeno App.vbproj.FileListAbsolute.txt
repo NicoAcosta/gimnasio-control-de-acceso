@@ -1,0 +1,13 @@
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\bin\Debug\Oxigeno App.exe.config
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\bin\Debug\Oxigeno App.exe
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\bin\Debug\Oxigeno App.pdb
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\bin\Debug\Oxigeno App.xml
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\obj\Debug\Oxigeno App.vbprojAssemblyReference.cache
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\obj\Debug\Oxigeno_App.indexForm.resources
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\obj\Debug\Oxigeno_App.Resources.resources
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\obj\Debug\Oxigeno App.vbproj.GenerateResource.cache
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\obj\Debug\Oxigeno App.vbproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\obj\Debug\Oxigeno App.exe
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\obj\Debug\Oxigeno App.xml
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\obj\Debug\Oxigeno App.pdb
+C:\Users\nicol\source\repos\Oxigeno App\Oxigeno App\obj\Debug\Oxigeno_App.nameForm.resources
